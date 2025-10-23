@@ -1,5 +1,5 @@
 # IM-Hanzou | Fish It Croter
-A simple script for Fish It auto-fishing.
+A simple script for Fish It auto-fishing 🎣
 
 🧩 Features:
 - Auto-perfect throw
