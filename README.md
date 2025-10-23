@@ -4,7 +4,7 @@ A simple script for Fish It auto-fishing 🎣
 🧩 Features:
 - Auto-perfect throw
 - Set limit tier for selling fish
-- Auto-sell fish
+- Auto-sell fish at 4500
 
 ⚙️ How to Use
 
