@@ -3,6 +3,7 @@ A simple script for Fish It auto-fishing.
 
 🧩 Features:
 - Auto-perfect throw
+- Set limit tier for selling fish
 - Auto-sell fish
 
 ⚙️ How to Use
