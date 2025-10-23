@@ -1,5 +1,13 @@
 # IM-Hanzou | Fish It Croter
-Simple Fish It Script Auto Fisher 🎣
+A simple script for Fish It auto-fishing.
+
+🧩 Features:
+- Auto-perfect throw
+- Auto-sell fish
+
+⚙️ How to Use
+
+Run this on your console executor:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/im-hanzou/FishItCroter/refs/heads/main/main.lua"))()
 ```
